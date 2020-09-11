@@ -1,5 +1,5 @@
-@import url(https://bolditalic.org/webfonts/surveyorssm-wf.css);
-@import url(https://bolditalic.org/webfonts/sourcesanspro-wf.css);
+@import url(https://raw.githubusercontent.com/thorfischer/css/master/surveyorssm-wf.css);
+@import url(https://raw.githubusercontent.com/thorfischer/css/master/sourcesanspro-wf.css);
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
